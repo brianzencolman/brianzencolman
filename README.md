@@ -1,6 +1,6 @@
-<img width="360" height="240" alt="CodingWorkFromHomeGIFbyDommeSpace" src="https://github.com/user-attachments/assets/8383faa0-29a4-44be-941b-b7aa9b0b5242" /> <img width="400" height="181" alt="hackcodingGIFbyMatthewButler" src="https://github.com/user-attachments/assets/65380ad8-4e3e-42c4-a0c1-02be88ac8a1a" />
+<img width="1983" height="793" alt="Banner tecnológico neón de Brianzen" src="https://github.com/user-attachments/assets/12f21f33-48c0-405e-a6f5-982ebb758fcd" />
 
-- Tecnicatura en Desarrollo de Software
+- Tecnicatura en Desarrollo de Software                                                                                                        <img width="360" height="240" alt="CodingWorkFromHomeGIFbyDommeSpace" src="https://github.com/user-attachments/assets/8383faa0-29a4-44be-941b-b7aa9b0b5242" />
 - Brian Ezequiel Colman
 - Practicas Profesionalizantes
 

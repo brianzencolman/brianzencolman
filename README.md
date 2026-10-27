@@ -2,4 +2,4 @@
 - Brian Ezequiel Colman
 - Practicas Profesionalizantes
 
-[![My Skills](https://skillicons.dev/icons?i=cs,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,mysql,ai)](https://skillicons.dev)
